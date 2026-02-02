@@ -25,6 +25,4 @@ An interactive and dynamic Quiz Application built with **React.js**, focusing on
 
 
 
-1. Clone the repository:
-   ```bash
-   git clone [YOUR_REPO_LINK]
+
