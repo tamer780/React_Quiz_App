@@ -21,7 +21,7 @@ export default function Summary({ userAnswers }) {
   return (
     <div id="summary">
       <img src={completeImage} alt="image_complete" />
-      <h2> Quiz is Complete</h2>
+      <h2> Quiz Completed!</h2>
       <div id="summary-stats">
         <p>
           <span className="number">{skippedAnswersShare}%</span>
